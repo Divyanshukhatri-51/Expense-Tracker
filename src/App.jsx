@@ -28,7 +28,7 @@ function App() {
     }
     setDesc("")
     setExpense("")
-    setcategory("")
+    setcategory("Food")
     setcreateDate("")
     createExpense(expenses)
   }
